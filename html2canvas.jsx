@@ -1,3 +1,4 @@
+// use "npm install html2canvas" to install the required package
 import html2canvas from "html2canvas";
 import { useState } from "react";
 export default function IDCard() {
